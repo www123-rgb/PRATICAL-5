@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PracticalFive</string>
+    <string name="screen_title">Municipalities of China</string>
+    <string name="screen_subtitle">Four cities are administered directly by the central government. On the map, 1 is Beijing, 2 is Tianjin and 3 is Chongqing. Shanghai is the highlighted area on the eastern coast.</string>
+    <string name="logo_description">Map of China filled with the national flag</string>
+    <string name="map_description">Map highlighting the four Chinese municipalities</string>
+    <string name="choose_label">Choose a municipality</string>
+    <string name="show_details">Show details</string>
+    <string name="history_heading">History</string>
+    <string name="share">Share</string>
+    <string name="share_via">Share this municipality</string>
+    <string name="back">Back</string>
+    <string name="city_photo_description">Photograph of the selected municipality</string>
+    <string name="word_count">About %1$d words</string>
+    <string name="missing_municipality">That municipality could not be loaded.</string>
+    <string name="share_footer">Shared from PracticalFive.</string>
+
+    <string-array name="municipality_names">
+        <item>Beijing</item>
+        <item>Tianjin</item>
+        <item>Chongqing</item>
+        <item>Shanghai</item>
+    </string-array>
+
+    <string-array name="municipality_histories">
+        <item>Beijing stands on the north-western edge of the North China Plain and is the capital of the People\'s Republic of China. Early records call the settlement Ji, later the capital of the Yan state. Under the names Zhongdu, Dadu and Beijing it was an imperial capital of the Jin, Yuan, Ming and Qing dynasties. It was organised as a municipality in 1928 and has again been the national capital since 1949. The Forbidden City, the Temple of Heaven and the nearby Great Wall still mark it as a political and cultural centre.</item>
+        <item>Tianjin lies where the Hai River meets the Bohai Sea, a short distance south-east of Beijing. It was known as Zhigu in the Jin and Yuan periods, when it was already a transport junction. In the early Ming dynasty a garrison called Tianjinwei, the defence of the heavenly ford, was set up there, and under the Qing it became a prefectural seat. Tianjin became a city in 1928 and a municipality directly under the central government in 1949. It is still a major northern port and industrial centre.</item>
+        <item>Chongqing occupies the upper Yangtze in eastern south-west China. The area belonged to the ancient Ba state and was administered as Yuzhou during the Sui and Tang dynasties. From 1937 to 1945 it was the wartime capital. In 1997 Chongqing, together with the former Wanxian, Fuling and Qianjiang areas, became the fourth municipality directly under the central government. The meeting of the Yangtze and Jialing rivers, and the steep peninsula between them, made it an inland port and later a vast municipal region.</item>
+        <item>Shanghai sits on the eastern coast at the mouth of the Yangtze. It began as a fishing settlement, came under the state of Wu in the Spring and Autumn period, and was established as the town of Shanghai during the Song dynasty. It was made a city in 1927. Shanghai is now China\'s largest city, its leading port, and a commercial and financial centre for the country.</item>
+    </string-array>
+
+    <array name="municipality_images">
+        <item>@drawable/beijing</item>
+        <item>@drawable/tianjin</item>
+        <item>@drawable/chongqing</item>
+        <item>@drawable/shanghai</item>
+    </array>
+</resources>
